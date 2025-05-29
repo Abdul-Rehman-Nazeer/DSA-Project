@@ -1,2 +1,15 @@
 # DSA-Project
-Word Guesser (Aim of the project was to develop a program that autocompletes the word that the user is searching in different ways. I came up with 5 of them.
+# Word Search Implementation
+
+## C++ Version
+- 5 ways to search but is terminal based output
+- Uses Merge Sort for sorting
+- Command-line interface
+- STL implementation
+
+## Python Version
+- Uses Tkinter for GUI
+- Trie data structure
+- Real-time search
+- Word puzzle game
+- File persistence
